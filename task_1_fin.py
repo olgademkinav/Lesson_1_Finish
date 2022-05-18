@@ -1,3 +1,4 @@
+print('Hello, world')
 i = 10
 print (i)
 j = "Привет!"
